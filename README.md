@@ -12,3 +12,13 @@ Inference time scaling drives extended reasoning to enhance the performance of V
 
 ![The framework of Qwen-LookAgain](qwen_la.png)
 
+## 🚩Citation
+If this work is helpful, please kindly cite as:
+```
+@article{chu2025qwen,
+  title={Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information},
+  author={Chu, Xu and Chen, Xinrong and Wang, Guanyu and Tan, Zhijie and Huang, Kui and Lv, Wenyu and Mo, Tong and Li, Weiping},
+  journal={arXiv preprint arXiv:2505.23558},
+  year={2025}
+}
+```
